@@ -14,7 +14,7 @@ FunctionEnd
 Function MyCustomLeave
   # Form validation here. Call Abort to go back to the page.
   # Use !insertmacro MUI_INSTALLOPTIONS_READ $Var "InstallOptionsFile.ini" ...
-  # to get values.
+  # to get values.code
 FunctionEnd
  
 Section Dummy
